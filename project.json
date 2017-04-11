@@ -1,0 +1,8 @@
+{
+  "name": "api-gateway-authorization",
+  "description": "",
+  "memory": 128,
+  "timeout": 5,
+  "role": "arn:aws:iam::695621932122:role/api-gateway-authorization_lambda_function",
+  "environment": {}
+}
